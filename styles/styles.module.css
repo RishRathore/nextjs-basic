@@ -1,0 +1,8 @@
+.bgPaper {
+  background-image: url("/backgroud_img.jpg");
+  /* Static File Serving: will pick from public */
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
